@@ -1,4 +1,13 @@
-# Autonomous-Driving-Contest_xytron
+# soosang
 
-제 5회 국민대학교 자율주행 경진대회
-2022-09-03
+## mission1
+Speed.py
+mission1.py
+
+roslaunch soosang speed.launch
+
+## mission2
+Xycar.py
+main.py
+
+roslaunch soosang autodrive.launch
